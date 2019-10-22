@@ -1,1 +1,9 @@
-# esm206-lab4-part2-jlh
+# emY Readme!
+
+ - some 
+ - useful 
+ - bullets
+ 
+ And other information
+ 
+ *Yay*
